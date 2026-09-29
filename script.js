@@ -7,12 +7,12 @@ const NAMA_TOKO = "PromoKelas";
 // ===== DAFTAR PRODUK (ubah sesuai produkmu) =====
 // harga = harga promo, hargaAsli = harga coret (isi 0 kalau tidak ada diskon)
 const produk = [
-  { id: 1, nama: "Teh Tarik Original", kat: "Teh Tarik", ikon: "🧋", gambar: "file:///F:/buapido/teh-tarik-original.svg", warna: "#f3c98f", harga: 7000, hargaAsli: 10000, desk: "Teh tarik klasik dengan susu, manis dan creamy." },
-  { id: 2, nama: "Teh Tarik Coklat", kat: "Teh Tarik", ikon: "🧋", gambar: "file:///F:/buapido/teh-tarik-coklat.svg", warna: "#d9b39c", harga: 8000, hargaAsli: 11000, desk: "Perpaduan teh tarik dan coklat pekat." },
-  { id: 3, nama: "Teh Tarik Taro", kat: "Teh Tarik", ikon: "🧋", gambar: "file:///F:/buapido/teh-tarik-taro.svg", warna: "#cdb6ec", harga: 10000, hargaAsli: 12000, desk: "Teh tarik rasa talas yang lembut dan wangi." },
-  { id: 4, nama: "Teh Tarik Matcha", kat: "Teh Tarik", ikon: "🧋", gambar: "file:///F:/buapido/teh-tarik-matcha.svg", warna: "#bcd98a", harga: 11000, hargaAsli: 13000, desk: "Teh tarik dengan matcha yang segar dan sedikit pahit." },
-  { id: 5, nama: "Teh Tarik Red Velvet", kat: "Teh Tarik", ikon: "🧋", gambar: "file:///F:/buapido/teh-tarik-redvelvet.svg", warna: "#f2a3ac", harga: 11000, hargaAsli: 0, desk: "Teh tarik rasa red velvet yang manis dan creamy." },
-  { id: 6, nama: "Teh Tarik Brown Sugar", kat: "Teh Tarik", ikon: "🧋", gambar: "file:///F:/buapido/teh-tarik-brownsugar.svg", warna: "#e6b57a", harga: 12000, hargaAsli: 14000, desk: "Teh tarik dengan gula aren yang legit." }
+  { id: 1, nama: "Teh Tarik Original", kat: "Teh Tarik", ikon: "🧋", gambar: "teh-tarik-original.svg", warna: "#f3c98f", harga: 7000, hargaAsli: 10000, desk: "Teh tarik klasik dengan susu, manis dan creamy." },
+  { id: 2, nama: "Teh Tarik Coklat", kat: "Teh Tarik", ikon: "🧋", gambar: "teh-tarik-coklat.svg", warna: "#d9b39c", harga: 8000, hargaAsli: 11000, desk: "Perpaduan teh tarik dan coklat pekat." },
+  { id: 3, nama: "Teh Tarik Taro", kat: "Teh Tarik", ikon: "🧋", gambar: "teh-tarik-taro.svg", warna: "#cdb6ec", harga: 10000, hargaAsli: 12000, desk: "Teh tarik rasa talas yang lembut dan wangi." },
+  { id: 4, nama: "Teh Tarik Matcha", kat: "Teh Tarik", ikon: "🧋", gambar: "teh-tarik-matcha.svg", warna: "#bcd98a", harga: 11000, hargaAsli: 13000, desk: "Teh tarik dengan matcha yang segar dan sedikit pahit." },
+  { id: 5, nama: "Teh Tarik Red Velvet", kat: "Teh Tarik", ikon: "🧋", gambar: "teh-tarik-redvelvet.svg", warna: "#f2a3ac", harga: 11000, hargaAsli: 0, desk: "Teh tarik rasa red velvet yang manis dan creamy." },
+  { id: 6, nama: "Teh Tarik Brown Sugar", kat: "Teh Tarik", ikon: "🧋", gambar: "teh-tarik-brownsugar.svg", warna: "#e6b57a", harga: 12000, hargaAsli: 14000, desk: "Teh tarik dengan gula aren yang legit." }
 ];
 
 // ===== STATE & ELEMEN =====
