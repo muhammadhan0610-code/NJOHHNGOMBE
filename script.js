@@ -7,7 +7,7 @@ const NAMA_TOKO = "PromoKelas";
 // ===== DAFTAR PRODUK (ubah sesuai produkmu) =====
 // harga = harga promo, hargaAsli = harga coret (isi 0 kalau tidak ada diskon)
 const produk = [
-  { id: 1, nama: "Teh Tarik Original", kat: "Teh Tarik", ikon: "🧋", gambar: "teh-tarik-original.svg", warna: "#f3c98f", harga: 5000, hargaAsli: 7000, desk: "Teh tarik klasik dengan susu, manis dan creamy." },
+  { id: 1, nama: "Teh Tarik Original", kat: "Teh Tarik", ikon: "🧋", gambar: "teh-tarik-original.svg", warna: "#f3c98f", harga: 7000, hargaAsli: 8000, desk: "Teh tarik klasik dengan susu, manis dan creamy." },
 
   // ===== DESERT =====
   { id: 2, nama: "Desert Cokelat", kat: "Desert", ikon: "🍫", gambar: "desert-cokelat.svg", warna: "#d7b8a0", harga: 7000, hargaAsli: 8000, desk: "Desert lembut rasa cokelat, manis dan legit." },
