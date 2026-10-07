@@ -10,11 +10,11 @@ const produk = [
   { id: 1, nama: "Teh Tarik Original", kat: "Teh Tarik", ikon: "🧋", gambar: "teh-tarik-original.svg", warna: "#f3c98f", harga: 5000, hargaAsli: 7000, desk: "Teh tarik klasik dengan susu, manis dan creamy." },
 
   // ===== DESERT =====
-  { id: 2, nama: "Desert Cokelat", kat: "Desert", ikon: "🍫", gambar: "desert-cokelat.svg", warna: "#d7b8a0", harga: 6000, hargaAsli: 8000, desk: "Desert lembut rasa cokelat, manis dan legit." },
-  { id: 3, nama: "Desert Strawberry", kat: "Desert", ikon: "🍓", gambar: "desert-strawberry.svg", warna: "#f9c5d1", harga: 6000, hargaAsli: 8000, desk: "Desert segar rasa strawberry, manis dengan sedikit asam." },
-  { id: 4, nama: "Desert Vanilla", kat: "Desert", ikon: "🍮", gambar: "desert-vanilla.svg", warna: "#fbe8b5", harga: 6000, hargaAsli: 8000, desk: "Desert creamy rasa vanilla, lembut di mulut." },
-  { id: 5, nama: "Desert Matcha", kat: "Desert", ikon: "🍵", gambar: "desert-matcha.svg", warna: "#c9e0b5", harga: 6500, hargaAsli: 8500, desk: "Desert rasa matcha, sedikit pahit dan wangi." },
-  { id: 6, nama: "Desert Mangga", kat: "Desert", ikon: "🥭", gambar: "desert-mangga.svg", warna: "#ffd98a", harga: 6500, hargaAsli: 8500, desk: "Desert rasa mangga, manis segar dan harum." }
+  { id: 2, nama: "Desert Cokelat", kat: "Desert", ikon: "🍫", gambar: "desert-cokelat.svg", warna: "#d7b8a0", harga: 7000, hargaAsli: 8000, desk: "Desert lembut rasa cokelat, manis dan legit." },
+  { id: 3, nama: "Desert Strawberry", kat: "Desert", ikon: "🍓", gambar: "desert-strawberry.svg", warna: "#f9c5d1", harga: 10000, hargaAsli: 11000, desk: "Desert segar rasa strawberry, manis dengan sedikit asam." },
+  { id: 4, nama: "Desert Vanilla", kat: "Desert", ikon: "🍮", gambar: "desert-vanilla.svg", warna: "#fbe8b5", harga: 10000, hargaAsli: 11000, desk: "Desert creamy rasa vanilla, lembut di mulut." },
+  { id: 5, nama: "Desert Matcha", kat: "Desert", ikon: "🍵", gambar: "desert-matcha.svg", warna: "#c9e0b5", harga: 10000, hargaAsli: 12000, desk: "Desert rasa matcha, sedikit pahit dan wangi." },
+  { id: 6, nama: "Desert Mangga", kat: "Desert", ikon: "🥭", gambar: "desert-mangga.svg", warna: "#ffd98a", harga: 10000, hargaAsli: 12000, desk: "Desert rasa mangga, manis segar dan harum." }
 ];
 
 // ===== STATE & ELEMEN =====
