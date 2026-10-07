@@ -15,7 +15,7 @@ const produk = [
   { id: 4, nama: "Desert Vanilla", kat: "Desert", ikon: "🍮", gambar: "desert-vanilla.svg", warna: "#fbe8b5", harga: 6000, hargaAsli: 8000, desk: "Desert creamy rasa vanilla, lembut di mulut." },
   { id: 5, nama: "Desert Matcha", kat: "Desert", ikon: "🍵", gambar: "desert-matcha.svg", warna: "#c9e0b5", harga: 6500, hargaAsli: 8500, desk: "Desert rasa matcha, sedikit pahit dan wangi." },
   { id: 6, nama: "Desert Mangga", kat: "Desert", ikon: "🥭", gambar: "desert-mangga.svg", warna: "#ffd98a", harga: 6500, hargaAsli: 8500, desk: "Desert rasa mangga, manis segar dan harum." }
-];];
+];
 
 // ===== STATE & ELEMEN =====
 const keranjang = {};
