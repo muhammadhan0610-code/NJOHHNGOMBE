@@ -10,7 +10,6 @@ const produk = [
   { id: 1, nama: "Teh Tarik Original", kat: "Teh Tarik", ikon: "🧋", gambar: "teh-tarik-original.svg", warna: "#f3c98f", harga: 5000, hargaAsli: 7000, desk: "Teh tarik klasik dengan susu, manis dan creamy." },
   { id: 2, nama: "Teh Tarik Coklat", kat: "Teh Tarik", ikon: "🧋", gambar: "teh-tarik-coklat.svg", warna: "#d9b39c", harga: 7000, hargaAsli: 10000, desk: "Perpaduan teh tarik dan coklat pekat." },
   { id: 3, nama: "Teh Tarik Taro", kat: "Teh Tarik", ikon: "🧋", gambar: "teh-tarik-taro.svg", warna: "#cdb6ec", harga: 8000, hargaAsli: 10000, desk: "Teh tarik rasa talas yang lembut dan wangi." },
-  { id: 4, nama: "Teh Tarik Matcha", kat: "Teh Tarik", ikon: "🧋", gambar: "teh-tarik-matcha.svg", warna: "#bcd98a", harga: 10000, hargaAsli: 13000, desk: "Teh tarik dengan matcha yang segar dan sedikit pahit." },
 ];
 
 // ===== STATE & ELEMEN =====
