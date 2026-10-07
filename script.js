@@ -12,9 +12,9 @@ const produk = [
   // ===== DESERT =====
   { id: 2, nama: "Desert Cokelat", kat: "Desert", ikon: "🍫", gambar: "desert-cokelat.svg", warna: "#d7b8a0", harga: 10000, hargaAsli: 11000, desk: "Desert lembut rasa cokelat, manis dan legit." },
   { id: 5, nama: "Desert Matcha", kat: "Desert", ikon: "🍵", gambar: "desert-matcha.svg", warna: "#c9e0b5", harga: 10000, hargaAsli: 12000, desk: "Desert rasa matcha, sedikit pahit dan wangi." },
-  { id: 2, nama: "Desert Oreo", kat: "Desert", ikon: "🍪", gambar: "desert-oreo.svg", warna: "#d9d4cc", harga: 6000, hargaAsli: 8000, desk: "Desert creamy dengan remahan Oreo, manis dan renyah." },
-  { id: 3, nama: "Desert Tiramisu", kat: "Desert", ikon: "☕", gambar: "desert-tiramisu.svg", warna: "#e6cfb0", harga: 6500, hargaAsli: 8500, desk: "Desert lembut rasa kopi dan cokelat, bertabur bubuk kakao." },
-  { id: 4, nama: "Desert Keju", kat: "Desert", ikon: "🧀", gambar: "desert-keju.svg", warna: "#ffe9a8", harga: 6000, hargaAsli: 8000, desk: "Desert keju gurih manis, lembut dan creamy." }
+  { id: 2, nama: "Desert Oreo", kat: "Desert", ikon: "🍪", gambar: "desert-oreo.svg", warna: "#d9d4cc", harga: 10000, hargaAsli:10000, desk: "Desert creamy dengan remahan Oreo, manis dan renyah." },
+  { id: 3, nama: "Desert Tiramisu", kat: "Desert", ikon: "☕", gambar: "desert-tiramisu.svg", warna: "#e6cfb0", harga: 10000, hargaAsli: 11000, desk: "Desert lembut rasa kopi dan cokelat, bertabur bubuk kakao." },
+  { id: 4, nama: "Desert Keju", kat: "Desert", ikon: "🧀", gambar: "desert-keju.svg", warna: "#ffe9a8", harga: 10000, hargaAsli: 11000, desk: "Desert keju gurih manis, lembut dan creamy." }
 ];
 
 // ===== STATE & ELEMEN =====
